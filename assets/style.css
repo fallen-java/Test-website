@@ -1,1 +1,41 @@
+.a {
 
+
+    color: red;
+
+
+}
+table,
+td {
+    border: 1px solid #333;
+}
+thead,
+tfoot {
+    text-align: center;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+    width: 15%;
+    height: 15%;
+    border: 1px solid #333;
+}
+
+
+.center {
+
+text-align: center;
+
+}
+
+.kinda-left {
+    margin-left: 20%;
+}
+
+.kinda-right {
+    margin-left: 80%;
+}
